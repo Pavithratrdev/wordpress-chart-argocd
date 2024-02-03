@@ -13,4 +13,4 @@ spec:
     tier: frontend
   type: LoadBalancer
   externalIPs:
-  - 10.76.87.233
+  - 10.76.87.234
